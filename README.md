@@ -9,12 +9,12 @@
 中文 · English · 日本語
 
 <p>
-  <a href="https://hruiccc.github.io/RuiC-PoseAtlas/"><strong>在线体验 →</strong></a> ·
+  <a href="https://lxxpqxxl.github.io/RuiC-PoseAtlas/"><strong>在线体验 →</strong></a> ·
   <a href="https://github.com/HRuiCcc/RuiC-PoseAtlas">GitHub 仓库</a> ·
   <a href="https://github.com/HRuiCcc/RuiC-PoseAtlas/issues">问题反馈</a>
 </p>
 
-[![demo](https://img.shields.io/badge/demo-online-2ea44f?style=flat-square)](https://hruiccc.github.io/RuiC-PoseAtlas/)
+[![demo](https://img.shields.io/badge/demo-online-2ea44f?style=flat-square)](https://lxxpqxxl.github.io/RuiC-PoseAtlas/)
 ![poses](https://img.shields.io/badge/poses-288-8fb4ff?style=flat-square)
 ![images](https://img.shields.io/badge/images-1%2C439-c3d5ff?style=flat-square)
 ![languages](https://img.shields.io/badge/languages-%E4%B8%AD%E6%96%87%20%7C%20EN%20%7C%20%E6%97%A5%E6%9C%AC%E8%AA%9E-e3c8ff?style=flat-square)
@@ -49,7 +49,7 @@
 
 ## 在线体验
 
-> **https://hruiccc.github.io/RuiC-PoseAtlas/**
+> **https://lxxpqxxl.github.io/RuiC-PoseAtlas/**
 
 由 GitHub Pages 自动部署，直接打开即可浏览；支持 `?lang=zh|en|ja` 与姿态深链接。页面中的图片、缩略图、数据与本地版本一致。
 
@@ -356,7 +356,7 @@ npm run fetch-images
 - 也可以在 Actions 页面手动运行 `Deploy to GitHub Pages`；
 - 部署时只打包运行所需的 `index.html`、`assets/`、`data/`、`img/`、`thumbs/`、`og-cover.jpg`、`robots.txt`，不会公开 README、`scripts/`、`docs/` 中的赞赏码等仓库文件。
 
-当前地址：**https://hruiccc.github.io/RuiC-PoseAtlas/**
+当前地址：**https://lxxpqxxl.github.io/RuiC-PoseAtlas/**
 
 ### Cloudflare Pages（备选）
 
@@ -450,7 +450,7 @@ npm run fetch-images
 
 ### 在线演示在哪里？
 
-**https://hruiccc.github.io/RuiC-PoseAtlas/**。由 GitHub Pages 部署，涉及站点文件的 push 会自动更新。
+**https://lxxpqxxl.github.io/RuiC-PoseAtlas/**。由 GitHub Pages 部署，涉及站点文件的 push 会自动更新。
 
 ### 支持手机吗？
 
